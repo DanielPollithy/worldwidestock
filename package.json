@@ -1,0 +1,21 @@
+{
+  "name": "worldwidestock",
+  "version": "0.0.0",
+  "description": "Receive stock data via sms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanielPollithy/worldwidestock.git"
+  },
+  "author": "Daniel Pollithy & Joschko Ruppersberg",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/DanielPollithy/worldwidestock/issues"
+  },
+  "dependencies": {
+    "twilio": "~2.6.0"
+  }
+}

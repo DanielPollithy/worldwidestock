@@ -1,3 +1,9 @@
+#twilio credentials
+twiliocredentials.js
+
+#private contacts
+contacts.js
+
 # Logs
 logs
 *.log
